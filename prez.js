@@ -1,1 +1,1 @@
-console.log(Hello Hardfork)
+console.log('Hello Hardfork')
