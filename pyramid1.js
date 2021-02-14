@@ -1,0 +1,15 @@
+
+// La solution attendue
+console.log('*')
+console.log('**')
+console.log('***')
+console.log('****')
+console.log('*****')
+console.log('******')
+console.log('*******')
+console.log('********')
+
+// La solution smart
+for (let i = 1; i <= 8; ++i) {
+  console.log('*'.repeat(i))
+}
