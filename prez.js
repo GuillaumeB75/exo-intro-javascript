@@ -1,4 +1,3 @@
-/* exercice corrigé et renseigné ici */
 let name = 'Sofiane'
 let age = 39
 let city = 'Paris'
